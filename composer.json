@@ -1,0 +1,18 @@
+{
+    "name": "tConverter",
+    "description": "Simple unit converter.",
+    "keywords": ["unit","converter","weight","length"],
+    "homepage": "http://github.com/tanertuncer/tConverter-composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Taner Tuncer",
+            "email": "yeahwild@yahoo.com",
+            "homepage": "http://tankotun.co",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.1"
+    }
+}
